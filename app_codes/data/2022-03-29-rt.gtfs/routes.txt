@@ -1,0 +1,344 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1,ZTM,1,Banacha,0
+2,ZTM,10,os.Górczewska,0
+3,ZTM,102,PKP Olszynka Grochowska,3
+4,ZTM,103,Metro Młociny,3
+5,ZTM,104,Żerań FSO,3
+6,ZTM,105,rondo Daszyńskiego,3
+7,ZTM,106,Mariensztat,3
+8,ZTM,107,Kierbedzia,3
+9,ZTM,108,Metro Wilanowska,3
+10,ZTM,109,os.Górczewska,3
+11,ZTM,11,pl.Narutowicza,0
+12,ZTM,110,Metro Marymont,3
+13,ZTM,111,Gocław,3
+14,ZTM,112,CH Marki,3
+15,ZTM,114,Młociny-UKSW,3
+16,ZTM,115,PKP Mokry Ług,3
+17,ZTM,116,Chomiczówka,3
+18,ZTM,117,Dw.Centralny,3
+19,ZTM,118,Metro Politechnika,3
+20,ZTM,119,Rakowiecka-Sanktuarium,3
+21,ZTM,120,Dw.Wschodni (Kijowska),3
+22,ZTM,121,Gwiaździsta,3
+23,ZTM,122,Gwiaździsta,3
+24,ZTM,123,Dw.Wschodni (Kijowska),3
+25,ZTM,124,Paluch,3
+26,ZTM,125,Międzylesie,3
+27,ZTM,126,Nowodwory,3
+28,ZTM,127,Nowe Włochy,3
+29,ZTM,128,Szczęśliwice,3
+30,ZTM,129,Koło,3
+31,ZTM,13,Cm.Wolski,0
+32,ZTM,130,Rakowiecka-Sanktuarium,3
+33,ZTM,131,Dw.Centralny,3
+34,ZTM,132,Metro Marymont,3
+35,ZTM,133,Choszczówka,3
+36,ZTM,134,Olesin,3
+37,ZTM,135,PKP Olszynka Grochowska,3
+38,ZTM,136,Natolin Płn.,3
+39,ZTM,138,Utrata,3
+40,ZTM,139,Ogród Botaniczny,3
+41,ZTM,14,Banacha,0
+42,ZTM,140,Czarna Struga,3
+43,ZTM,141,P+R Al.Krakowska,3
+44,ZTM,142,Skalnicowa,3
+45,ZTM,143,Rembertów-Kolonia,3
+46,ZTM,145,Wiatraczna,3
+47,ZTM,146,Falenica,3
+48,ZTM,147,Stara Miłosna (Ułańska),3
+49,ZTM,148,Terminal Autokarowy,3
+50,ZTM,149,Groty,3
+51,ZTM,15,Marymont-Potok,0
+52,ZTM,150,Metro Młociny,3
+53,ZTM,151,Nowowiejska,3
+54,ZTM,152,os.Derby,3
+55,ZTM,153,PKP Mokry Ług,3
+56,ZTM,154,Stare Bemowo,3
+57,ZTM,156,Metro Młociny,3
+58,ZTM,157,Gwiaździsta,3
+59,ZTM,158,CH Reduta,3
+60,ZTM,159,Statkowskiego,3
+61,ZTM,160,Dw.Centralny,3
+62,ZTM,161,Olecka,3
+63,ZTM,162,Chełmska,3
+64,ZTM,163,Wilanów,3
+65,ZTM,164,Wilanów,3
+66,ZTM,165,Wyczółki,3
+67,ZTM,166,pl.Hallera,3
+68,ZTM,167,Siekierki-Sanktuarium,3
+69,ZTM,168,Spartańska,3
+70,ZTM,169,Dw.Wschodni (Kijowska),3
+71,ZTM,17,Winnica,0
+72,ZTM,170,Elsnerów,3
+73,ZTM,171,Chomiczówka,3
+74,ZTM,172,CH Blue City,3
+75,ZTM,173,Dw.Wschodni (Lubelska),3
+76,ZTM,174,rondo ONZ,3
+77,ZTM,175,pl.Piłsudskiego,3
+78,ZTM,176,Budowlana,3
+79,ZTM,177,WKD Opacz,3
+80,ZTM,178,rondo Daszyńskiego,3
+81,ZTM,179,Ursynów Płn.,3
+82,ZTM,18,Żerań FSO,0
+83,ZTM,180,Chomiczówka,3
+84,ZTM,181,pl.Wilsona,3
+85,ZTM,182,Dw.Zachodni,3
+86,ZTM,183,Zielona,3
+87,ZTM,184,Metro Młociny,3
+88,ZTM,185,Gwiaździsta,3
+89,ZTM,186,Nowodwory,3
+90,ZTM,187,Stegny,3
+91,ZTM,188,Terminal Autokarowy,3
+92,ZTM,189,os.Górczewska,3
+93,ZTM,190,CH Marki,3
+94,ZTM,191,Regulska,3
+95,ZTM,192,os.Kabaty,3
+96,ZTM,193,Ursynów Płn.,3
+97,ZTM,194,Cm.Wolski,3
+98,ZTM,195,pl.Trzech Krzyży,3
+99,ZTM,196,Rembertów-Kolonia,3
+100,ZTM,197,Metro Stare Bielany,3
+101,ZTM,198,Stara Miłosna (Ułańska),3
+102,ZTM,199,Metro Trocka,3
+103,ZTM,2,Winnica,0
+104,ZTM,20,Boernerowo,0
+105,ZTM,200,Pańska,3
+106,ZTM,201,Dalibora,3
+107,ZTM,202,Metro Stadion Narodowy,3
+108,ZTM,203,Metro Młociny,3
+109,ZTM,204,PKP Praga,3
+110,ZTM,206,Wagonownia,3
+111,ZTM,207,Skorosze,3
+112,ZTM,208,Bitwy Warszawskiej 1920 r.,3
+113,ZTM,209,Ursynów Płd.,3
+114,ZTM,210,Metro Młociny,3
+115,ZTM,211,Milenijna,3
+116,ZTM,212,pl.Hallera,3
+117,ZTM,213,Błota,3
+118,ZTM,217,Sarmacka,3
+119,ZTM,218,Królikarnia,3
+120,ZTM,219,PKP Radość,3
+121,ZTM,22,Wiatraczna,0
+122,ZTM,220,Nowe Bemowo,3
+123,ZTM,221,pl.Niemena,3
+124,ZTM,222,Bielańska,3
+125,ZTM,225,Gocław,3
+126,ZTM,228,Sasanki,3
+127,ZTM,23,Czynszowa,0
+128,ZTM,234,Żerań Wschodni,3
+129,ZTM,239,Krasnowola,3
+130,ZTM,24,Gocławek,0
+131,ZTM,240,Żerań FSO,3
+132,ZTM,245,Maczka,3
+133,ZTM,249,os.Górczewska,3
+134,ZTM,25,Banacha,0
+135,ZTM,250,Metro Młociny,3
+136,ZTM,251,CH Stara Papiernia,3
+137,ZTM,255,rondo Daszyńskiego,3
+138,ZTM,256,PKP Zacisze-Wilno,3
+139,ZTM,26,Wiatraczna,0
+140,ZTM,262,Lewinów,3
+141,ZTM,263,Stegny,3
+142,ZTM,264,Wilanów,3
+143,ZTM,269,Metro Targówek Mieszkaniowy,3
+144,ZTM,27,Cm.Wolski,0
+145,ZTM,28,Dw.Wschodni (Kijowska),0
+146,ZTM,3,Annopol,0
+147,ZTM,302,Emilii Plater,3
+148,ZTM,303,Cm.Północny-Brama Gł.,3
+149,ZTM,304,Podwójna,3
+150,ZTM,305,Strusia,3
+151,ZTM,308,Domaniewska Office Park,3
+152,ZTM,31,PKP Służewiec,0
+153,ZTM,311,Kamionek,3
+154,ZTM,314,Olesin,3
+155,ZTM,317,Wilanów,3
+156,ZTM,319,Natolin Płn.,3
+157,ZTM,320,Groty,3
+158,ZTM,323,Powsinek,3
+159,ZTM,326,Metro Marymont,3
+160,ZTM,328,Osmańska-DHL,3
+161,ZTM,33,Metro Młociny,0
+162,ZTM,331,Terminal Autokarowy,3
+163,ZTM,332,Podwójna,3
+164,ZTM,333,Ćwiklińskiej,3
+165,ZTM,338,Utrata,3
+166,ZTM,339,os.Kabaty,3
+167,ZTM,340,Pustelnik,3
+168,ZTM,35,Wyścigi,0
+169,ZTM,365,Bokserska,3
+170,ZTM,379,Wilanów,3
+171,ZTM,4,Żerań Wschodni,0
+172,ZTM,401,Ursynów Płd.,3
+173,ZTM,402,Wynalazek,3
+174,ZTM,41,Żerań Wschodni,0
+175,ZTM,411,Metro Politechnika,3
+176,ZTM,412,Dw.Wschodni (Kijowska),3
+177,ZTM,414,Bródno-Podgrodzie,3
+178,ZTM,500,Bródno-Podgrodzie,3
+179,ZTM,501,Dw.Centralny,3
+180,ZTM,502,Stara Miłosna (Graniczna),3
+181,ZTM,503,Konwiktorska,3
+182,ZTM,504,Dw.Centralny,3
+183,ZTM,507,Dw.Centralny,3
+184,ZTM,509,Winnica,3
+185,ZTM,511,Metro Młociny,3
+186,ZTM,512,Dw.Wschodni (Kijowska),3
+187,ZTM,514,Wola Grzybowska,3
+188,ZTM,516,Żerań FSO,3
+189,ZTM,517,Centrum,3
+190,ZTM,518,pl.Trzech Krzyży,3
+191,ZTM,519,Dw.Centralny,3
+192,ZTM,520,pl.Bankowy,3
+193,ZTM,521,Falenica,3
+194,ZTM,522,pl.Konstytucji,3
+195,ZTM,523,PKP Olszynka Grochowska,3
+196,ZTM,525,Międzylesie,3
+197,ZTM,527,Metro Targówek Mieszkaniowy,3
+198,ZTM,6,Gocławek,0
+199,ZTM,7,Kawęczyńska-Bazylika,0
+200,ZTM,702,Orla,3
+201,ZTM,703,Kosów,3
+202,ZTM,704,PKP Halinów,3
+203,ZTM,705,Metro Marymont,3
+204,ZTM,706,pl.Szwedzki,3
+205,ZTM,707,P+R Al.Krakowska,3
+206,ZTM,709,Metro Wilanowska,3
+207,ZTM,710,os.Kabaty,3
+208,ZTM,711,P+R Nadarzyn,3
+209,ZTM,712,Metro Młociny,3
+210,ZTM,713,AGRICOOP,3
+211,ZTM,714,Koczargi Stare,3
+212,ZTM,715,Szyszkowa,3
+213,ZTM,716,Ogińskiego,3
+214,ZTM,717,Dw.Zachodni,3
+215,ZTM,719,Leszno,3
+216,ZTM,720,Rzakta,3
+217,ZTM,721,Kosów,3
+218,ZTM,722,Wiatraczna,3
+219,ZTM,723,Żerań FSO,3
+220,ZTM,724,Gerbera,3
+221,ZTM,727,Władysławów,3
+222,ZTM,728,Złotokłos,3
+223,ZTM,729,Mariew,3
+224,ZTM,730,Brzeziny,3
+225,ZTM,731,Żerań FSO,3
+226,ZTM,733,Młochów,3
+227,ZTM,735,Zegrze Płd.,3
+228,ZTM,736,Żerań FSO,3
+229,ZTM,737,Ursynów Płn.,3
+230,ZTM,738,os.Victoria,3
+231,ZTM,739,Julianowska-Cmentarz,3
+232,ZTM,742,Rynek,3
+233,ZTM,743,Cm.Wolski,3
+234,ZTM,750,Metro Młociny,3
+235,ZTM,809,PKP Jeziorki,3
+236,ZTM,815,Łady-Szkoła,3
+237,ZTM,817,Dw.Zachodni,3
+238,ZTM,850,Żeromskiego,3
+239,ZTM,9,P+R Al.Krakowska,0
+240,ZTM,900,Poetów,3
+241,ZTM,E-1,Metro Stadion Narodowy,3
+242,ZTM,E-2,Metro Ratusz-Arsenał,3
+243,ZTM,E-9,Metro Marymont,3
+244,ZTM,L-1,pl.Szwedzki,3
+245,ZTM,L-2,Złotokłos,3
+246,ZTM,L-3,PKP Piaseczno,3
+247,ZTM,L-4,Mysiadło,3
+248,ZTM,L-5,Zgoda,3
+249,ZTM,L-6,Stare Bemowo,3
+250,ZTM,L-7,Starostwo,3
+251,ZTM,L-8,Mickiewicza,3
+252,ZTM,L-9,PKP Legionowo,3
+253,ZTM,L10,PKP Legionowo,3
+254,ZTM,L11,Urząd Miasta,3
+255,ZTM,L12,Zgoda,3
+256,ZTM,L13,Zgoda,3
+257,ZTM,L14,Bielawa-Pętla,3
+258,ZTM,L15,Klarysew,3
+259,ZTM,L16,Okrzeszyn II,3
+260,ZTM,L17,Urząd Gminy,3
+261,ZTM,L18,Rynek,3
+262,ZTM,L19,Zgoda,3
+263,ZTM,L20,Kupiecka,3
+264,ZTM,L21,Klarysew,3
+265,ZTM,L23,Jasna,3
+266,ZTM,L24,Chylice,3
+267,ZTM,L25,Zgoda,3
+268,ZTM,L26,Turów,3
+269,ZTM,L27,pl.Jana Pawła II,3
+270,ZTM,L28,Klarysew,3
+271,ZTM,L29,Leszno,3
+272,ZTM,L30,Rynek,3
+273,ZTM,L31,pl.Wolności,3
+274,ZTM,L32,Pańska,3
+275,ZTM,L34,PKP Legionowo,3
+276,ZTM,L35,Szpital Powiatowy,3
+277,ZTM,L36,Sokola,3
+278,ZTM,L37,Szpital Powiatowy,3
+279,ZTM,L38,Szpital Powiatowy,3
+280,ZTM,L39,PKP Jeziorki,3
+281,ZTM,L40,Cmentarz Marki,3
+282,ZTM,L41,PKP Legionowo,3
+283,ZTM,L42,Słomczyn-Szkoła,3
+284,ZTM,L43,CH Marki,3
+285,ZTM,L45,CH Marki,3
+286,ZTM,L46,CH Marki,3
+287,ZTM,L47,Sulejówek Miłosna-Pomnik,3
+288,ZTM,L48,PKP Sulejówek Miłosna,3
+289,ZTM,L49,Dąbrówka Wiślana,3
+290,ZTM,L52,Pańska,3
+291,ZTM,N01,Nowodwory,3
+292,ZTM,N02,Marysin,3
+293,ZTM,N03,Ursynów Płn.,3
+294,ZTM,N11,os.Derby,3
+295,ZTM,N12,Dw.Centralny,3
+296,ZTM,N13,Nowodwory,3
+297,ZTM,N14,Olesin,3
+298,ZTM,N16,PKP Zacisze-Wilno,3
+299,ZTM,N21,Stara Miłosna (Ułańska),3
+300,ZTM,N22,Dw.Centralny,3
+301,ZTM,N24,Rembertów-Akademia,3
+302,ZTM,N25,Dw.Centralny,3
+303,ZTM,N31,Sadyba,3
+304,ZTM,N32,Terminal Autokarowy,3
+305,ZTM,N33,Dw.Centralny,3
+306,ZTM,N34,os.Kabaty,3
+307,ZTM,N35,PKP Ursus-Niedźwiadek,3
+308,ZTM,N36,Bokserska,3
+309,ZTM,N37,os.Kabaty,3
+310,ZTM,N38,Centrum,3
+311,ZTM,N41,Dw.Centralny,3
+312,ZTM,N42,Dw.Centralny,3
+313,ZTM,N43,Dw.Centralny,3
+314,ZTM,N44,Dw.Centralny,3
+315,ZTM,N45,Karolin,3
+316,ZTM,N46,Dw.Centralny,3
+317,ZTM,N50,Waflowa,3
+318,ZTM,N56,Metro Młociny,3
+319,ZTM,N61,Dw.Centralny,3
+320,ZTM,N62,os.Niepodległości,3
+321,ZTM,N63,Chotomów,3
+322,ZTM,N64,Dw.Centralny,3
+323,ZTM,N71,Dw.Centralny,3
+324,ZTM,N72,Falenica,3
+325,ZTM,N81,Dw.Centralny,3
+326,ZTM,N83,Dw.Centralny,3
+327,ZTM,N85,Os.Staszica/Pętla,3
+328,ZTM,N86,Dw.Centralny,3
+329,ZTM,N88,Centrum,3
+330,ZTM,N91,Cm.Północny-Brama Zach.,3
+331,ZTM,N95,os.Górczewska,3
+332,ZTM,R1,Pruszków,2
+333,ZTM,R2,Sulejówek Miłosna,2
+334,ZTM,R3,Warszawa Wschodnia,2
+335,ZTM,R6,Warszawa Wileńska,2
+336,ZTM,R7,Śródborów,2
+337,ZTM,R8,Zalesie Górne,2
+338,ZTM,R9,Legionowo,2
+339,ZTM,RL,Warszawa Centralna,2
+340,ZTM,S1,Pruszków,2
+341,ZTM,S2,Sulejówek Miłosna,2
+342,ZTM,S3,Radzymin,2
+343,ZTM,WKD,Warszawa Śródmieście WKD,2
