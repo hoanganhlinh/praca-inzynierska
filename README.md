@@ -17,6 +17,6 @@ To repozytorium zawiera kod źródłowy oraz materiały związane z pracą inży
 ## Kontakt
 W razie pytań lub sugestii, prosimy o kontakt z autorami pracy inżynierskiej:
 - Laura Hoang: [laura.hoang.stud@pw.edu.pl]
-- Piotr Bielecki: [adres email]
+- Piotr Bielecki: [piotr.bielecki2.stud@pw.edu.pl]
 - Daniel Tytkowski: [adres email]
 
